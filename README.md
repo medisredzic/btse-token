@@ -1,7 +1,7 @@
 # btse-token
 My first standalone HTML/CSS project. Based on inspiration design found on Dribble. 
 
-Layout and project idea was taken from inspiration design on Dribble. (Credit: Arafat - UI/UX)
+Layout and project idea was taken from inspiration design on Dribble. (Credit: Arafat - UI/UX)<br/>
 Images taken from Unsplash. (Credit: Simon Lee)
 
 Design isn't copied fully, because I didn't have access to UI design files or images/icons from original design.
