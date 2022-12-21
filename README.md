@@ -26,10 +26,6 @@ Timeframe: 5-6 hours
   <a href="https://github.com/medisredzic/btse-token">
     <img src="img/preview.jpg" alt="Design">
   </a>
-
-  <h3 align="center">Workout Tracker</h3>
-
-  ![Product Name Screen Shot][product-screenshot]
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
